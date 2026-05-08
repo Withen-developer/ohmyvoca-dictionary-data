@@ -12,6 +12,6 @@
 ## License
 
 This dataset is derived from Wiktionary and is licensed under
-Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0).
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
-https://creativecommons.org/licenses/by-sa/3.0/
+https://creativecommons.org/licenses/by-sa/4.0/
