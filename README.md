@@ -7,6 +7,7 @@
 - `multiword_wiktionary_5493.json` — 5,493개 다의어 항목
 - 출처: Wiktionary
 - 한국어 정의 및 예문: Gemini AI로 생성
+- 이후 추가 정제 작업이 이루어질 예정이며, 그 때마다 본 데이터는 업데이트하겠습니다.
 
 ## License
 
